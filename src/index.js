@@ -74,4 +74,5 @@ app.listen(port, function(){
 	console.log("|_____|_|_|_|___|_|__,|_| |___|_|                           ");
 	console.log("");	
 	console.log(FgGreen,"Port: ",port);
+	console.log("Running locally unless otherwise modified...");
 })
