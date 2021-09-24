@@ -1,0 +1,31 @@
+{
+  "name": "llsif-server-emulator",
+  "version": "1.0.0",
+  "description": "Love Live School Idol Festival android game, server emulator. This was made to help preserve the game when the servers do go down eventually.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/641i130/llsif-server-emulator.git"
+  },
+  "keywords": [
+    "Love",
+    "Live",
+    "Game",
+    "Server",
+    "Emulator",
+    "Server",
+    "Emulator"
+  ],
+  "author": "641i130",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/641i130/llsif-server-emulator/issues"
+  },
+  "homepage": "https://github.com/641i130/llsif-server-emulator#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
