@@ -1,0 +1,13 @@
+# nmap -Pn prod-jp.lovelive.ge.klabgames.net
+
+Starting Nmap 7.70 ( https://nmap.org ) at 2021-09-23 22:57 CDT
+Nmap scan report for prod-jp.lovelive.ge.klabgames.net (99.84.250.26)
+Host is up (0.00070s latency).
+Other addresses for prod-jp.lovelive.ge.klabgames.net (not scanned): 99.84.250.97 99.84.250.6 99.84.250.101
+rDNS record for 99.84.250.26: server-99-84-250-26.ord50.r.cloudfront.net
+Not shown: 998 filtered ports
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap done: 1 IP address (1 host up) scanned in 23.76 seconds
